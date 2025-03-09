@@ -15,6 +15,10 @@ This repository contains some code that I created during my research-stay at the
     * (1) model-building phase: automatically builds a process-model including input-characterization, i.e. output prediction depending on measurements on the input (material).
 
     * (2) production-optimization phase: use the process-model for being able to optimize the same kind of process for fixed (but unknown!) input material with hopefully less iterations.
+ 
+I recommend to download the repository and view it in vscode, to be able to view contained plotly plots: 
+![grafik](https://github.com/user-attachments/assets/8e2b1b63-d963-4fb5-8e5f-f689f2991f23)
+
 
 ### openflexure
 * some code to enhance contrast for camera streams produced with an open-flexure microscope
